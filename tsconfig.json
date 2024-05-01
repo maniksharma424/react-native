@@ -8,7 +8,7 @@
     "src/**/*.tsx",
     "index.tsx",
     "/App/**/*.ts",
-    "App.tsx",
+    "app/_layout.tsx",
     "app.d.ts",
     "App/**/*.tsx"
   ]
